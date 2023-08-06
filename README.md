@@ -1,7 +1,7 @@
 This repository contains my programming examples in Java.
 
 The code was created in 2015 in course of my work on a Java programming project in a team of 3 people
-at the Leibniz-Universität Hannover. The final application represented a household book which allowed
+at the Leibniz Universität Hannover. The final application represented a household book which allowed
 to create diverse user profiles, add already performed and planned for the future transactions, calculate
 current and expected (after future transactions are executed) balance, produce diagrams, store the user
 profile with its transaction history into an XML file and read it from there. The implementation followed the
